@@ -7,6 +7,16 @@ assignees: ''
 
 ---
 
+<!--
+  Please follow the template.  If you don't, your issue may be closed.
+
+  Have a question?  This is the TypeORM issue tracker - and not the right place
+  for general support or questions.  Instead, check the "Support" Documentation
+  on the best places to ask questions!
+
+  https://github.com/typeorm/typeorm/blob/master/docs/support.md
+-->
+
 ## Documentation Issue
 
 ### What was unclear or otherwise insufficient?
@@ -65,7 +75,7 @@ assignees: ''
 ### Are you willing to resolve this issue by submitting a Pull Request?
 
 <!--
-  Remember that first-time contributors are welcome!
+  Remember that first-time contributors are welcome! 🙌
 -->
 
 - [ ] Yes, I have the time, and I know how to start.
@@ -75,5 +85,5 @@ assignees: ''
 
 
 <!--
-  Have a great day and thank you for the feature request!
+  👋 Have a great day and thank you for the documentation problem report!
 -->
